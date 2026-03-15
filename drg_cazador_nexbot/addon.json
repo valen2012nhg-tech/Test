@@ -1,0 +1,9 @@
+{
+  "title": "DRG Cazador Nexbot",
+  "type": "npc",
+  "tags": ["fun", "roleplay"],
+  "ignore": ["*.psd", "*.vcproj", "*.svn*"],
+  "description": "Nexbot para DRGBase que persigue al jugador mas cercano y lo ataca cuerpo a cuerpo.",
+  "author": "Codex",
+  "version": "1.0.0"
+}
